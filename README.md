@@ -5,4 +5,8 @@ A Supermarket Sales Project in Tableau involves analyzing sales data to uncover 
 
 #Screenshot
 
+(Tableau)
+
+![image](https://github.com/user-attachments/assets/083722d4-f8c4-4690-af13-614aae5be5a3)
+
 
